@@ -1,0 +1,2 @@
+# goSsh
+Learning about go.
